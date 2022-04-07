@@ -1,0 +1,21 @@
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\08.03\WFA_SwitchCase\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.exe.config
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\08.03\WFA_SwitchCase\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\08.03\WFA_SwitchCase\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.pdb
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\08.03\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\08.03\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.Form1.resources
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\08.03\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.Properties.Resources.resources
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\08.03\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csproj.GenerateResource.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\08.03\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\08.03\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.exe
+C:\Users\FatihGunalp\Desktop\YZL3156\C#\08.03\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.pdb
+C:\Users\Sevil AYDIN\Desktop\WFA_SwitchCase\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.exe.config
+C:\Users\Sevil AYDIN\Desktop\WFA_SwitchCase\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.exe
+C:\Users\Sevil AYDIN\Desktop\WFA_SwitchCase\WFA_SwitchCase\bin\Debug\WFA_SwitchCase.pdb
+C:\Users\Sevil AYDIN\Desktop\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Sevil AYDIN\Desktop\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sevil AYDIN\Desktop\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.Form1.resources
+C:\Users\Sevil AYDIN\Desktop\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.Properties.Resources.resources
+C:\Users\Sevil AYDIN\Desktop\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csproj.GenerateResource.cache
+C:\Users\Sevil AYDIN\Desktop\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Sevil AYDIN\Desktop\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.exe
+C:\Users\Sevil AYDIN\Desktop\WFA_SwitchCase\WFA_SwitchCase\obj\Debug\WFA_SwitchCase.pdb

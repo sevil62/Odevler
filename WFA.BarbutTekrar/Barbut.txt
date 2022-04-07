@@ -1,0 +1,2 @@
+Hocam ufak bir kaç değişiklik ekledim o yüzden tekarar attım.
+Atılan zara göre kazanan oyuncu puanlatı toplayacak şekilde oyunu kurgulamaya çalıştım.

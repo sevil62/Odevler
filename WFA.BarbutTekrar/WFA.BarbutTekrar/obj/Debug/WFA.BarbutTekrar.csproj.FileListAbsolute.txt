@@ -1,0 +1,11 @@
+C:\Users\Sevil AYDIN\Desktop\Projelerim\WFA.BarbutTekrar\WFA.BarbutTekrar\bin\Debug\WFA.BarbutTekrar.exe.config
+C:\Users\Sevil AYDIN\Desktop\Projelerim\WFA.BarbutTekrar\WFA.BarbutTekrar\bin\Debug\WFA.BarbutTekrar.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\WFA.BarbutTekrar\WFA.BarbutTekrar\bin\Debug\WFA.BarbutTekrar.pdb
+C:\Users\Sevil AYDIN\Desktop\Projelerim\WFA.BarbutTekrar\WFA.BarbutTekrar\obj\Debug\WFA.BarbutTekrar.csproj.AssemblyReference.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\WFA.BarbutTekrar\WFA.BarbutTekrar\obj\Debug\WFA.BarbutTekrar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\WFA.BarbutTekrar\WFA.BarbutTekrar\obj\Debug\WFA.BarbutTekrar.Form1.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\WFA.BarbutTekrar\WFA.BarbutTekrar\obj\Debug\WFA.BarbutTekrar.Properties.Resources.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\WFA.BarbutTekrar\WFA.BarbutTekrar\obj\Debug\WFA.BarbutTekrar.csproj.GenerateResource.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\WFA.BarbutTekrar\WFA.BarbutTekrar\obj\Debug\WFA.BarbutTekrar.csproj.CoreCompileInputs.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\WFA.BarbutTekrar\WFA.BarbutTekrar\obj\Debug\WFA.BarbutTekrar.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\WFA.BarbutTekrar\WFA.BarbutTekrar\obj\Debug\WFA.BarbutTekrar.pdb

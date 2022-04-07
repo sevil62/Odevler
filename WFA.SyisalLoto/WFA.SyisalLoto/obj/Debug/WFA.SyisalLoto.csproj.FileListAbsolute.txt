@@ -1,0 +1,11 @@
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.SyisalLoto\WFA.SyisalLoto\bin\Debug\WFA.SyisalLoto.exe.config
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.SyisalLoto\WFA.SyisalLoto\bin\Debug\WFA.SyisalLoto.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.SyisalLoto\WFA.SyisalLoto\bin\Debug\WFA.SyisalLoto.pdb
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.SyisalLoto\WFA.SyisalLoto\obj\Debug\WFA.SyisalLoto.csproj.AssemblyReference.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.SyisalLoto\WFA.SyisalLoto\obj\Debug\WFA.SyisalLoto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.SyisalLoto\WFA.SyisalLoto\obj\Debug\WFA.SyisalLoto.Form1.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.SyisalLoto\WFA.SyisalLoto\obj\Debug\WFA.SyisalLoto.Properties.Resources.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.SyisalLoto\WFA.SyisalLoto\obj\Debug\WFA.SyisalLoto.csproj.GenerateResource.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.SyisalLoto\WFA.SyisalLoto\obj\Debug\WFA.SyisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.SyisalLoto\WFA.SyisalLoto\obj\Debug\WFA.SyisalLoto.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.SyisalLoto\WFA.SyisalLoto\obj\Debug\WFA.SyisalLoto.pdb
