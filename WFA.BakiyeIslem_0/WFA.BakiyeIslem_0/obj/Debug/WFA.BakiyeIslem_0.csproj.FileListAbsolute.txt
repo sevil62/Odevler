@@ -1,0 +1,11 @@
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.BakiyeIslem_0\WFA.BakiyeIslem_0\bin\Debug\WFA.BakiyeIslem_0.exe.config
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.BakiyeIslem_0\WFA.BakiyeIslem_0\bin\Debug\WFA.BakiyeIslem_0.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.BakiyeIslem_0\WFA.BakiyeIslem_0\bin\Debug\WFA.BakiyeIslem_0.pdb
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.BakiyeIslem_0\WFA.BakiyeIslem_0\obj\Debug\WFA.BakiyeIslem_0.csproj.AssemblyReference.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.BakiyeIslem_0\WFA.BakiyeIslem_0\obj\Debug\WFA.BakiyeIslem_0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.BakiyeIslem_0\WFA.BakiyeIslem_0\obj\Debug\WFA.BakiyeIslem_0.Form1.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.BakiyeIslem_0\WFA.BakiyeIslem_0\obj\Debug\WFA.BakiyeIslem_0.Properties.Resources.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.BakiyeIslem_0\WFA.BakiyeIslem_0\obj\Debug\WFA.BakiyeIslem_0.csproj.GenerateResource.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.BakiyeIslem_0\WFA.BakiyeIslem_0\obj\Debug\WFA.BakiyeIslem_0.csproj.CoreCompileInputs.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.BakiyeIslem_0\WFA.BakiyeIslem_0\obj\Debug\WFA.BakiyeIslem_0.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.BakiyeIslem_0\WFA.BakiyeIslem_0\obj\Debug\WFA.BakiyeIslem_0.pdb

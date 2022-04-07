@@ -1,0 +1,11 @@
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.TahminOyunu\WFA.TahminOyunu\bin\Debug\WFA.TahminOyunu.exe.config
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.TahminOyunu\WFA.TahminOyunu\bin\Debug\WFA.TahminOyunu.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.TahminOyunu\WFA.TahminOyunu\bin\Debug\WFA.TahminOyunu.pdb
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.TahminOyunu\WFA.TahminOyunu\obj\Debug\WFA.TahminOyunu.csproj.AssemblyReference.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.TahminOyunu\WFA.TahminOyunu\obj\Debug\WFA.TahminOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.TahminOyunu\WFA.TahminOyunu\obj\Debug\WFA.TahminOyunu.Form1.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.TahminOyunu\WFA.TahminOyunu\obj\Debug\WFA.TahminOyunu.Properties.Resources.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.TahminOyunu\WFA.TahminOyunu\obj\Debug\WFA.TahminOyunu.csproj.GenerateResource.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.TahminOyunu\WFA.TahminOyunu\obj\Debug\WFA.TahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.TahminOyunu\WFA.TahminOyunu\obj\Debug\WFA.TahminOyunu.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.TahminOyunu\WFA.TahminOyunu\obj\Debug\WFA.TahminOyunu.pdb

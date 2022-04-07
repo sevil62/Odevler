@@ -1,0 +1,11 @@
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.Barbut\WFA.Barbut\bin\Debug\WFA.Barbut.exe.config
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.Barbut\WFA.Barbut\bin\Debug\WFA.Barbut.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.Barbut\WFA.Barbut\bin\Debug\WFA.Barbut.pdb
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.Barbut\WFA.Barbut\obj\Debug\WFA.Barbut.csproj.AssemblyReference.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.Barbut\WFA.Barbut\obj\Debug\WFA.Barbut.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.Barbut\WFA.Barbut\obj\Debug\WFA.Barbut.Form1.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.Barbut\WFA.Barbut\obj\Debug\WFA.Barbut.Properties.Resources.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.Barbut\WFA.Barbut\obj\Debug\WFA.Barbut.csproj.GenerateResource.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.Barbut\WFA.Barbut\obj\Debug\WFA.Barbut.csproj.CoreCompileInputs.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.Barbut\WFA.Barbut\obj\Debug\WFA.Barbut.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.Barbut\WFA.Barbut\obj\Debug\WFA.Barbut.pdb
