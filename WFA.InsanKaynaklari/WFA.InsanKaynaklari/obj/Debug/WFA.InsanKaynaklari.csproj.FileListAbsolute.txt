@@ -1,0 +1,13 @@
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.InsanKaynaklari\WFA.InsanKaynaklari\bin\Debug\WFA.InsanKaynaklari.exe.config
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.InsanKaynaklari\WFA.InsanKaynaklari\bin\Debug\WFA.InsanKaynaklari.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.InsanKaynaklari\WFA.InsanKaynaklari\bin\Debug\WFA.InsanKaynaklari.pdb
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.InsanKaynaklari\WFA.InsanKaynaklari\obj\Debug\WFA.InsanKaynaklari.csproj.AssemblyReference.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.InsanKaynaklari\WFA.InsanKaynaklari\obj\Debug\WFA.InsanKaynaklari.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.InsanKaynaklari\WFA.InsanKaynaklari\obj\Debug\WFA.InsanKaynaklari.DepartmanForm.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.InsanKaynaklari\WFA.InsanKaynaklari\obj\Debug\WFA.InsanKaynaklari.LoginForm.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.InsanKaynaklari\WFA.InsanKaynaklari\obj\Debug\WFA.InsanKaynaklari.PersonelForm.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.InsanKaynaklari\WFA.InsanKaynaklari\obj\Debug\WFA.InsanKaynaklari.Properties.Resources.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.InsanKaynaklari\WFA.InsanKaynaklari\obj\Debug\WFA.InsanKaynaklari.csproj.GenerateResource.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.InsanKaynaklari\WFA.InsanKaynaklari\obj\Debug\WFA.InsanKaynaklari.csproj.CoreCompileInputs.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.InsanKaynaklari\WFA.InsanKaynaklari\obj\Debug\WFA.InsanKaynaklari.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.InsanKaynaklari\WFA.InsanKaynaklari\obj\Debug\WFA.InsanKaynaklari.pdb

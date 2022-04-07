@@ -1,0 +1,12 @@
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.RuntimeOdev1\WFA.RuntimeOdev1\bin\Debug\WFA.RuntimeOdev1.exe.config
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.RuntimeOdev1\WFA.RuntimeOdev1\bin\Debug\WFA.RuntimeOdev1.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.RuntimeOdev1\WFA.RuntimeOdev1\bin\Debug\WFA.RuntimeOdev1.pdb
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.RuntimeOdev1\WFA.RuntimeOdev1\obj\Debug\WFA.RuntimeOdev1.csproj.AssemblyReference.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.RuntimeOdev1\WFA.RuntimeOdev1\obj\Debug\WFA.RuntimeOdev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.RuntimeOdev1\WFA.RuntimeOdev1\obj\Debug\WFA.RuntimeOdev1.Form1.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.RuntimeOdev1\WFA.RuntimeOdev1\obj\Debug\WFA.RuntimeOdev1.Properties.Resources.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.RuntimeOdev1\WFA.RuntimeOdev1\obj\Debug\WFA.RuntimeOdev1.csproj.GenerateResource.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.RuntimeOdev1\WFA.RuntimeOdev1\obj\Debug\WFA.RuntimeOdev1.csproj.CoreCompileInputs.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.RuntimeOdev1\WFA.RuntimeOdev1\obj\Debug\WFA.RuntimeOdev1.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.RuntimeOdev1\WFA.RuntimeOdev1\obj\Debug\WFA.RuntimeOdev1.pdb
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\WFA.RuntimeOdev1\WFA.RuntimeOdev1\obj\Debug\WFA.RuntimeOdev1.Form2.resources

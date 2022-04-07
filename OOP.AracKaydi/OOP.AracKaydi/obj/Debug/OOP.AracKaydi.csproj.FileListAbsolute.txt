@@ -1,0 +1,11 @@
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.AracKaydi\OOP.AracKaydi\bin\Debug\OOP.AracKaydi.exe.config
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.AracKaydi\OOP.AracKaydi\bin\Debug\OOP.AracKaydi.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.AracKaydi\OOP.AracKaydi\bin\Debug\OOP.AracKaydi.pdb
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.AracKaydi\OOP.AracKaydi\obj\Debug\OOP.AracKaydi.csproj.AssemblyReference.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.AracKaydi\OOP.AracKaydi\obj\Debug\OOP.AracKaydi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.AracKaydi\OOP.AracKaydi\obj\Debug\OOP.AracKaydi.Form1.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.AracKaydi\OOP.AracKaydi\obj\Debug\OOP.AracKaydi.Properties.Resources.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.AracKaydi\OOP.AracKaydi\obj\Debug\OOP.AracKaydi.csproj.GenerateResource.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.AracKaydi\OOP.AracKaydi\obj\Debug\OOP.AracKaydi.csproj.CoreCompileInputs.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.AracKaydi\OOP.AracKaydi\obj\Debug\OOP.AracKaydi.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.AracKaydi\OOP.AracKaydi\obj\Debug\OOP.AracKaydi.pdb

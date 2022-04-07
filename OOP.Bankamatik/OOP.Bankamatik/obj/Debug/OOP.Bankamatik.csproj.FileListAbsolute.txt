@@ -1,0 +1,11 @@
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.Bankamatik\OOP.Bankamatik\bin\Debug\OOP.Bankamatik.exe.config
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.Bankamatik\OOP.Bankamatik\bin\Debug\OOP.Bankamatik.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.Bankamatik\OOP.Bankamatik\bin\Debug\OOP.Bankamatik.pdb
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.Bankamatik\OOP.Bankamatik\obj\Debug\OOP.Bankamatik.csproj.AssemblyReference.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.Bankamatik\OOP.Bankamatik\obj\Debug\OOP.Bankamatik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.Bankamatik\OOP.Bankamatik\obj\Debug\OOP.Bankamatik.Form1.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.Bankamatik\OOP.Bankamatik\obj\Debug\OOP.Bankamatik.Properties.Resources.resources
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.Bankamatik\OOP.Bankamatik\obj\Debug\OOP.Bankamatik.csproj.GenerateResource.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.Bankamatik\OOP.Bankamatik\obj\Debug\OOP.Bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.Bankamatik\OOP.Bankamatik\obj\Debug\OOP.Bankamatik.exe
+C:\Users\Sevil AYDIN\Desktop\Projelerim\ödev\OOP.Bankamatik\OOP.Bankamatik\obj\Debug\OOP.Bankamatik.pdb
